@@ -14,6 +14,8 @@ galaxy_info:
       versions:
         - trusty
         - precise
+    - name: Debian
+        - stretch
   galaxy_tags:
     - system
     - dns
